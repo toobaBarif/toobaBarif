@@ -1,16 +1,47 @@
-## Hi there 👋
+# Tooba Binte Arif
 
-<!--
-**toobaBarif/toobaBarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-Level Data Analyst focused on transforming raw data into clear, actionable insights.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Pandas
+- NumPy
+- SQL
+- Microsoft Excel
+- Power BI
+- Google BigQuery
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- KPI Analysis and Reporting
+
+## Current Portfolio Project
+
+### Bank Marketing Data Analysis with Python
+
+Analyzing customer and marketing campaign data to understand the characteristics associated with successful bank deposit subscriptions.
+
+The project includes:
+
+- Data inspection
+- Data quality assessment
+- Duplicate analysis
+- Outlier analysis
+- Data type review
+- Data filtering
+- Feature engineering
+- Grouped analysis
+- Data visualization
+- Business analysis
+
+## Currently Developing
+
+- SQL
+- Power BI
+- Statistics
+- Machine Learning
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/tooba-binte-arif-599750221
